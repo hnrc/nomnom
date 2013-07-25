@@ -2,7 +2,8 @@
 layout: index
 ---
 
-{% assign post = site.posts.first %}
+<!-- {% assign post = site.posts.first %} -->
+{% for post in site.posts %}
 <section class='post'>
   <h1 class="upcase">
     <div class='date'>{{ post.date | date_to_string }}</div>
@@ -11,3 +12,4 @@ layout: index
   {{ post.content }}
   {% include signoff.html %}
 </section>
+{% endfor %}
