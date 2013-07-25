@@ -1,0 +1,23 @@
+title:            Nom Nom Brewery
+description:      Humle, malt, humle, jäst, humle, vatten 
+url:              http://www.roflmao.se
+signoff:          Henric
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+
+links:
+  - name:         Start
+    url:          /
+  - name:         Arkiv
+    url:          /posts
+#  - name:         Recept
+#    url:          /recipes
+  - name:         Bryggeriet
+    url:          /about
+pygments:         true
+permalink:        pretty
+markdown:         rdiscount
+timezone:         Europe/Stockholm
+rdiscount:
+  extensions:     [smart]
