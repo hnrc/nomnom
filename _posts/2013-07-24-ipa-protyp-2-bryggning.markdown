@@ -3,7 +3,7 @@ layout: post
 title:  IPA Prototyp 2 Bryggning
 tags: ipa
 ---
-Jag har bestämt mig för att ta upp jakten på det optimala *perfektade* IPA-receptet (omg). Det kommer innebära massor av receptexperimenternde eftersom jag inte riktigt kan sätta fingret på vilka smakkombinationer som jag gillar bäst. 
+Jag har bestämt mig för att ta upp jakten på det optimala *perfektade* IPA-receptet (omg). Det kommer innebära massor av receptexperimenterande eftersom jag inte riktigt kan sätta fingret på vilka smakkombinationer som jag gillar bäst. 
 
 För att inte lägenheten ska svämma över av flaskor så är planen att köra rätt små batcher på 8-10 liter, om inte annat för att det är lätt att hantera som ensambryggare. Dessutom föredrar jag små (och därmed fler) bryggningar eftersom man då får tillfälle att utveckla och optimera bryggprocessen, speciellt då jag är ny i BIAB-världen.
 
