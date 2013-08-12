@@ -3,7 +3,7 @@ layout: post
 title:  IPA Prototyp 2 Flaskning
 tags: ipa
 ---
-Som jag [gissade (och hoppades)]({% post_url 2013-07-25-ipa-protyp-2-torrhumling %}) så skulle jäsningen sätta fart igen i och med att torrhumlingen och det var precis vad den gjorde. 4 dagars turrhumling senare så har FG (final gravity) landat på 1016, vilket man får anse som godkänt. Inte nog med det, den har även fått en fantastisk doft av citrus och tropiska frukter. 
+Som jag [gissade (och hoppades)]({% post_url 2013-07-25-ipa-prototyp-2-torrhumling %}) så skulle jäsningen sätta fart igen i och med att torrhumlingen och det var precis vad den gjorde. 4 dagars turrhumling senare så har FG (final gravity) landat på 1016, vilket man får anse som godkänt. Inte nog med det, den har även fått en fantastisk doft av citrus och tropiska frukter. 
 
 Med ett FG på 1016 och ett OG (original gravity) på 1054 så landar ABV% på `(1054 - 1016) * 0.132 = 5.016`.
 
