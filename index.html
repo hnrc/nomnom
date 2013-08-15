@@ -10,6 +10,9 @@ layout: index
     {{ post.title }}
   </h1>
   {{ post.content }}
+  <span class="comments-link">
+  	<a href="{{ post.url }}#disqus_thread">Comments</a>
+  </span>
   {% include signoff.html %}
 </section>
 {% endfor %}

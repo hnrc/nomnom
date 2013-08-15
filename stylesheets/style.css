@@ -319,6 +319,10 @@ section.post, section > p {
   margin: 0;
   padding: 0; }
 
+span.comments-link {
+  font-size: 13px;
+}
+
 pre {
   overflow-x: auto;
   padding: 10px 60px;
