@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Bygge av kylspiral
+disqus: y
 ---
 ![Kylspiral](/assets/kylspiral.jpg)
 

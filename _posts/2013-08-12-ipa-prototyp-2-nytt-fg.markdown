@@ -2,6 +2,7 @@
 layout: post
 title:  IPA Prototyp 2 Ny FG
 tags: ipa
+disqus: y
 ---
 Jag tog [som sagt]({% post_url 2013-08-11-ipa-prototyp-2-provsmakning %}) ett nytt hydrometerprov på det kolsyresatta ölet 
 i hopp om att det skulle ha jäst ut ett par pinnar extra sen flaskningen. Då all kolsyra försvunnit visar det FG 1014.

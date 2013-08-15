@@ -2,6 +2,7 @@
 layout: post
 title:  IPA Prototyp 2 Bryggning
 tags: ipa
+disqus: y
 ---
 Jag har bestämt mig för att ta upp jakten på det optimala *perfektade* IPA-receptet (omg). Det kommer innebära massor av receptexperimenterande eftersom jag inte riktigt kan sätta fingret på vilka smakkombinationer som jag gillar bäst. 
 

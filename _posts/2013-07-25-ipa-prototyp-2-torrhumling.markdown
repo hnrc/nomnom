@@ -2,6 +2,7 @@
 layout: post
 title:  IPA Prototyp 2 Torrhumling
 tags: ipa
+disqus: y
 ---
 [IPA Prototyp 2]({% post_url 2013-07-24-ipa-prototyp-2-bryggning %}) har nu stått på jäsning i 7 dagar och jag misstänker att den stannat upp i förtid.
 Den bubblade ner från 1054 till 1024 på 3 dagar och har legat stabilt på 1022 de senaste 3 dagarna. Jag hade räknat med att den skulle krypit ner 

@@ -2,6 +2,7 @@
 layout: post
 title:  IPA Prototyp 2 Provsmakning
 tags: ipa
+disqus: y
 ---
 Efter 2 veckor på flaska var det dags att ta det första smakprovet. En första okulär besiktning på de okylda flaskorna visade på 
 en hel del grums men det kommer förmodligen sjunka till botten när den fått stå i kyla några dagar. 

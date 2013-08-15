@@ -2,6 +2,7 @@
 layout: post
 title:  Hello, World!
 tags: ipa
+disqus: y
 ---
 Det här är första inlägget i vad som är tänkt att berätta sagan om Nom Nom Brewerys utveckling.
 I väntan på det första *riktiga* inlägget bjuder jag på en bild föreställande min första egenknådade IPA. 
