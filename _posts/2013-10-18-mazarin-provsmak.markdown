@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Provsmakning "Mazarin"
+title: Provsmakning Igeldammsgatan
 disqus: y
 ---
 
 ![Mazarin](/assets/mazarin-provsmak.jpg)
 
-Min version av Mazarin kom ut rätt bra. Den är inte jättelik originalet men så skiljer sig
+Min version av Mazarin (som numera går under namnet Igeldammsgatan) kom ut rätt bra. 
+Den är inte jättelik originalet men så skiljer sig
 även receptet ganska mycket eftersom jag bara använde ingredienser som jag hade hemma.
 Jag kommer förmodligen inte göra den igen men det handlar snarare om att jag är ute efter 
 andra smaker i den *optimala IPAn*.
