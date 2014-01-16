@@ -1,0 +1,17 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Nom Nom
+tagline:          'Brewery'
+description:      'Ett köksbryggeri på Kungsholmen, Stockholm med insöat fokus på pale ales av olika slag och dimensioner.'
+url:              http://nomnombrewery.com
+
+paginate:         5
+
+disqus_shortname: nomnombrewery
+google_analytics: UA-42731887-1
