@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Nom Nom
 tagline:          'Brewery'
-description:      'Ett köksbryggeri på Kungsholmen, Stockholm som snöat in på pale ales av olika slag och i olika dimensioner.'
+description:      '<b>Nom Nom Brewery</b>, ett köksbryggeri på Kungsholmen  som snöat in på pale ales av olika slag och i olika dimensioner.'
 url:              http://nomnombrewery.com
 
 paginate:         5
