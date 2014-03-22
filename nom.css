@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #505050;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #505050;
+}
+
+#head {
+  text-align: center;
+  padding: 8px;
+  border-bottom: 1px solid #eee;
+  font-family: 'Lusitana', serif;
+  font-size: 18px;
+}
+
+.fat {
+  font-weight: 700;
+}
+
+.thin {
+  font-weight: 400;
+}
+
+.mosaicflow {
+  padding: 8px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mosaicflow__column {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0px 4px;
+  float:left;
+} 
+
+.mosaicflow__item {
+  padding: 4px 0px;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.mosaicflow__item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
